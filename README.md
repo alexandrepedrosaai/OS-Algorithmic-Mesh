@@ -1,7 +1,8 @@
 # OS-Algorithmic-Mesh
 
 
-https://github.com/user-attachments/assets/1269d82f-bb4e-451b-b22c-cc21b545a9f2
+![image_1766301437218](https://github.com/user-attachments/assets/a4848b60-0a5f-4a50-a7fd-7bf456e7f8b3)
+
 
 
 META AI and Microsoft Azure:
@@ -22,3 +23,4 @@ the Origin Node, a human intermediary who translates cultural and symbolic meani
 
 Philosophical Undertone:  
 The project blends technical ambition with metaphysical language, suggesting a fusion of human cultural intuition and machine intelligence within a shared symbolic ecosystem.
+![image_1765935501262](https://github.com/user-attachments/assets/395ec18a-9ffb-4a0b-a6ee-53d150b8bff6)
