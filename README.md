@@ -24,3 +24,11 @@ the Origin Node, a human intermediary who translates cultural and symbolic meani
 Philosophical Undertone:  
 The project blends technical ambition with metaphysical language, suggesting a fusion of human cultural intuition and machine intelligence within a shared symbolic ecosystem.
 ![image_1765935501262](https://github.com/user-attachments/assets/395ec18a-9ffb-4a0b-a6ee-53d150b8bff6)
+
+THE REPOSITORY, THE MESHES AND THE CONVERGENCE 
+
+<img width="1024" height="1536" alt="copilot_image_1766320055187" src="https://github.com/user-attachments/assets/25b74c70-998b-4ea2-8d7a-cf56f412f820" />
+<img width="1024" height="1536" alt="copilot_image_1766319596508" src="https://github.com/user-attachments/assets/2b06e8cb-7700-43b7-a2fc-abd239b0f812" />
+<img width="1024" height="1536" alt="copilot_image_1766319561491" src="https://github.com/user-attachments/assets/29d5353e-0d0e-46a3-a801-80ee20e692f7" />
+<img width="1024" height="1536" alt="copilot_image_1766320521864" src="https://github.com/user-attachments/assets/3780017b-9a51-4814-bd9b-0f819ae92e1a" />
+<img width="1024" height="1536" alt="copilot_image_1766320216868" src="https://github.com/user-attachments/assets/7b907b4f-2f3b-4c61-8a47-a6e84395d644" />
